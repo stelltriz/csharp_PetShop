@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|c:\\users\\nat7ca\\desktop\\exerciciopetshop\\exerciciopetshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|solutionrelative:exerciciopetshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|c:\\users\\nat7ca\\desktop\\exerciciopetshop\\exerciciopetshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|solutionrelative:exerciciopetshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|c:\\users\\nat7ca\\desktop\\exerciciopetshop\\exerciciopetshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|solutionrelative:exerciciopetshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|c:\\users\\nat7ca\\desktop\\exerciciopetshop\\exerciciopetshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|solutionrelative:exerciciopetshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|c:\\users\\nat7ca\\desktop\\exerciciopetshop\\exerciciopetshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE4AA202-D9D0-4D03-8955-F53C42614CCC}|ExercicioPetShop\\ExercicioPetShop.csproj|solutionrelative:exerciciopetshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Medico.cs",
+              "RelativeDocumentMoniker": "ExercicioPetShop\\Medico.cs",
+              "ToolTip": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Medico.cs",
+              "RelativeToolTip": "ExercicioPetShop\\Medico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:08:00.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Consulta.cs",
+              "RelativeDocumentMoniker": "ExercicioPetShop\\Consulta.cs",
+              "ToolTip": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Consulta.cs",
+              "RelativeToolTip": "ExercicioPetShop\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:06:47.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dono.cs",
+              "DocumentMoniker": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Dono.cs",
+              "RelativeDocumentMoniker": "ExercicioPetShop\\Dono.cs",
+              "ToolTip": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Dono.cs",
+              "RelativeToolTip": "ExercicioPetShop\\Dono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:02:50.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Pet.cs",
+              "RelativeDocumentMoniker": "ExercicioPetShop\\Pet.cs",
+              "ToolTip": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Pet.cs",
+              "RelativeToolTip": "ExercicioPetShop\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:00:05.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioPetShop\\Program.cs",
+              "ToolTip": "C:\\Users\\nat7ca\\Desktop\\ExercicioPetShop\\ExercicioPetShop\\Program.cs",
+              "RelativeToolTip": "ExercicioPetShop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:59:29.69Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
